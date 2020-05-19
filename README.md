@@ -1,4 +1,4 @@
-# Labview project of Audio Analyzer with AnalogDiscovery2 (2020, community edition)
+# Audio Analyzer with AnalogDiscovery2 and LabVIEW 2020
 
 <img src="https://github.com/7m4mon/AudioAnalyzer_with_AnalogDiscovery2/blob/master/AudioAnalyzer__with__AnalogDiscovery2p_sine.png" alt="" title="">
 
